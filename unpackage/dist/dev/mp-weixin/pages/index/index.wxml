@@ -1,0 +1,1 @@
+<view class="content"><input class="uni-input phone" type="number" placeholder="请输入用户名/手机号/邮箱账号"/><input class="uni-input password" password="{{true}}" type="text" placeholder="请输入密码"/><view class="protocol"><label class="_span">已阅读并同意<navigator class="_a">《用户协议》</navigator>、<navigator class="_a">《隐私权政策》</navigator></label></view><button class="login-btn">登录</button></view>

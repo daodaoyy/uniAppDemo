@@ -1,0 +1,38 @@
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding-top: 120rpx;
+}
+.uni-input {
+	width: 80%;
+	border: 1rpx #555555 solid;
+    height: 80rpx;
+	line-height: 80rpx;
+	font-size: 24rpx;
+	text-indent: 2em;
+	text-align: center;
+}
+.phone,
+.password {
+	margin-bottom: 70rpx;
+}
+.protocol {
+	margin-bottom: 70rpx;
+}
+.protocol ._span {
+	display: flex;
+	font-size: 26rpx;
+}
+.login-btn {
+	width: 80%;
+	background-color: #192B93;
+	color: #FFFFFF;
+	font-size: 32rpx;
+	border-radius: 8rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+
